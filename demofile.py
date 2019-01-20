@@ -1,0 +1,1 @@
+print("demofile.py module name is",__name__)
