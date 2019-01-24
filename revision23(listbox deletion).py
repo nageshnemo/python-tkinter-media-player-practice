@@ -19,3 +19,4 @@ lb1.delete(1,3)
 # this delete from 1 to 3
 lb1.delete(0,END)
 root.mainloop()
+# this is used for some special purposes

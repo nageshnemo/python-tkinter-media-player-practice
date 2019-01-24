@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bbb6881-80dc-4a6a-a1ab-239be2fc7abe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/revision 17 (entry variants like show.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision 19(file chooser ).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision18(dialogue box ).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision20(assignment appp).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision20(file chooser multiple fies).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision21(askcolor).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision21(choice control).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision22( Radio button).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision22(check button).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision22(checkbutton another way).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision22(list box widget).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision23(listbox deletion).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revison21(checkbutton variants).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revsion24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revision23(listbox deletion).py" beforeDir="false" afterPath="$PROJECT_DIR$/revision23(listbox deletion).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,7 +27,6 @@
         <entry file="file://$PROJECT_DIR$/revision20(assignment appp).py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -51,8 +37,8 @@
       <file leaf-file-name="revision21(choice control).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revision21(choice control).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="22" lean-forward="true" selection-end-line="22" />
+            <state relative-caret-position="770">
+              <caret line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -61,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/revision22(check button).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="70">
-              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -69,7 +55,7 @@
       <file leaf-file-name="revision22( Radio button).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revision22( Radio button).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
+            <state relative-caret-position="525">
               <caret line="16" column="80" selection-end-line="21" selection-end-column="15" />
               <folding>
                 <element signature="e#107#128#0" expanded="true" />
@@ -81,7 +67,7 @@
       <file leaf-file-name="revision22(checkbutton another way).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revision22(checkbutton another way).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="254">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#107#128#0" expanded="true" />
@@ -99,20 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="revision23(listbox deletion).py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="revision23(listbox deletion).py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/revision23(listbox deletion).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="19" column="16" selection-end-line="21" />
+            <state relative-caret-position="408">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="revsion24.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="revsion24.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revsion24.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="525">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -121,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/revison21(checkbutton variants).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="70">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -186,8 +172,8 @@
         <option value="$PROJECT_DIR$/revision22( Radio button).py" />
         <option value="$PROJECT_DIR$/revision22(checkbutton another way).py" />
         <option value="$PROJECT_DIR$/revision22(list box widget).py" />
-        <option value="$PROJECT_DIR$/revision23(listbox deletion).py" />
         <option value="$PROJECT_DIR$/revsion24.py" />
+        <option value="$PROJECT_DIR$/revision23(listbox deletion).py" />
       </list>
     </option>
   </component>
@@ -204,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,6 +209,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -361,7 +347,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19619326" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -663,9 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,9 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="e#62#83#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,7 +671,6 @@
     <entry file="file://$PROJECT_DIR$/revision20(assignment appp).py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -701,28 +679,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/revision21(choice control).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="22" lean-forward="true" selection-end-line="22" />
+        <state relative-caret-position="770">
+          <caret line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revision22(check button).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revison21(checkbutton variants).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revision22( Radio button).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
+        <state relative-caret-position="525">
           <caret line="16" column="80" selection-end-line="21" selection-end-column="15" />
           <folding>
             <element signature="e#107#128#0" expanded="true" />
@@ -730,13 +708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/revision22(checkbutton another way).py">
+    <entry file="file://$PROJECT_DIR$/revsion24.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#107#128#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -747,17 +722,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/revision23(listbox deletion).py">
+    <entry file="file://$PROJECT_DIR$/revision22(checkbutton another way).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="19" column="16" selection-end-line="21" />
+        <state relative-caret-position="254">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#107#128#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/revsion24.py">
+    <entry file="file://$PROJECT_DIR$/revision23(listbox deletion).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="408">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
