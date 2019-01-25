@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bbb6881-80dc-4a6a-a1ab-239be2fc7abe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/revision 25 (multiple selection).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revision 30(Scale widget).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/revision31(tkinter.ttk module).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/revision32(oops in our code).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/revison33(example app for increment in class).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revision 30(Scale widget).py" beforeDir="false" afterPath="$PROJECT_DIR$/revision 30(Scale widget).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,17 +20,53 @@
       <file leaf-file-name="revision 25 (multiple selection).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revision 25 (multiple selection).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
+            <state relative-caret-position="910">
               <caret line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="revision 30(Scale widget).py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="revision 30(Scale widget).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revision 30(Scale widget).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="303">
+              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="revision31(tkinter.ttk module).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/revision31(tkinter.ttk module).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+              <folding>
+                <element signature="e#27#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="revision32(oops in our code).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/revision32(oops in our code).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#59#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="revison33(example app for increment in class).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/revison33(example app for increment in class).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#59#73#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,9 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/import module.py" />
-        <option value="$PROJECT_DIR$/welcome.py" />
-        <option value="$PROJECT_DIR$/venv/test.py" />
         <option value="$PROJECT_DIR$/test1.py" />
         <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/test3.py" />
@@ -99,10 +134,13 @@
         <option value="$PROJECT_DIR$/revision 26 listbox (Event handling ).py" />
         <option value="$PROJECT_DIR$/revision 25 (multiple selection).py" />
         <option value="$PROJECT_DIR$/revision 30(Scale widget).py" />
+        <option value="$PROJECT_DIR$/revision31(tkinter.ttk module).py" />
+        <option value="$PROJECT_DIR$/revision32(oops in our code).py" />
+        <option value="$PROJECT_DIR$/revison33(example app for increment in class).py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="738" />
     <option name="width" value="635" />
     <option name="height" value="735" />
@@ -115,14 +153,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="python-tkinter-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-tkinter-project" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="python-tkinter-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -135,6 +168,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -149,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.revision 30(Scale widget)">
+  <component name="RunManager" selected="Python.revison33(example app for increment in class)">
     <configuration name="revision 26 listbox (Event handling )" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-tkinter-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,7 +220,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="revision22(list box widget)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="revision32(oops in our code)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-tkinter-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,13 +232,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/revision22(list box widget).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/revision32(oops in our code).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="revision23(listbox deletion)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="revison33(example app for increment in class)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-tkinter-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,7 +250,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/revision23(listbox deletion).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/revison33(example app for increment in class).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,19 +275,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.revision22(list box widget)" />
-      <item itemvalue="Python.revision23(listbox deletion)" />
       <item itemvalue="Python.revsion24" />
       <item itemvalue="Python.revision 26 listbox (Event handling )" />
       <item itemvalue="Python.revision 30(Scale widget)" />
+      <item itemvalue="Python.revision32(oops in our code)" />
+      <item itemvalue="Python.revison33(example app for increment in class)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.revison33(example app for increment in class)" />
+        <item itemvalue="Python.revision32(oops in our code)" />
         <item itemvalue="Python.revision 30(Scale widget)" />
         <item itemvalue="Python.revision 26 listbox (Event handling )" />
         <item itemvalue="Python.revsion24" />
-        <item itemvalue="Python.revision23(listbox deletion)" />
-        <item itemvalue="Python.revision22(list box widget)" />
       </list>
     </recent_temporary>
   </component>
@@ -271,18 +305,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17862372" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3235725" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33123028" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33123028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -307,27 +341,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -566,13 +579,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revision20(assignment appp).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/revison21(checkbutton variants).py">
       <provider selected="true" editor-type-id="text-editor">
@@ -595,9 +602,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listbox (Event handling ).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/listbox (Event handling ).py" />
     <entry file="file://$PROJECT_DIR$/revision23(listbox deletion).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -609,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#107#128#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="16" column="80" selection-end-line="21" selection-end-column="15" />
-          <folding>
-            <element signature="e#107#128#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,23 +642,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revision 25 (multiple selection).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
+        <state relative-caret-position="910">
           <caret line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revision 30(Scale widget).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="303">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revision31(tkinter.ttk module).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="e#27#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revision32(oops in our code).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#59#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revison33(example app for increment in class).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#59#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
